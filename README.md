@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thakurfurqaan
-- 👀 I’m interested in Data Engineering and Full Stack Development
-- 🌱 I’m currently learning Data Engineering
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: LinkedIN
 

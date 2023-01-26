@@ -29,7 +29,7 @@
 <h3 align="center">&#128200; Leetcode</h3>
 <hr>
 <p align="center">
-<img height="273em" src="![LeetCode Stats](https://leetcard.jacoblin.cool/thakurfurqaan?theme=unicorn&font=Arimo&ext=heatmap)" />
+<img height="273em" src="https://leetcard.jacoblin.cool/thakurfurqaan?theme=unicorn&font=Arimo&ext=heatmap" />
 </p>
 
 <br>

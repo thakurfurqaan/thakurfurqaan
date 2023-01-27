@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furqaan Thakur</h1>
-<h3 align="center">A passionate Software developer currently based in Dubai</h3>
+<h3 align="center">A passionate Software Developer currently based in Dubai</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurfurqaan&" alt="thakurfurqaan" /></p>
 

@@ -11,7 +11,7 @@
 
 - 💬 My expertise lies in  - **Django, GraphQL, gRPC, NextJS, ReactJS, NodeJS, MongoDB, Postgres and many more...**
 
-- 🌱 I’m currently learning **the Science of Business**.
+- 🌱 I’m currently learning **Business Strategies**.
 
 - 👨‍ My recent project - **Cloud based Airline Management System for a confidential client.**
 
@@ -21,9 +21,7 @@
 
 - ⚡ Fun fact - **I love to tell computers what to do :)**
 
-<!-- - 📄 Know about my experiences - [My Resume](https://docs.google.com/document/d/17FaJ9ds3jBhxrF7zzrh78v5OQJHis4gZJfAOA_zq9sk/edit?usp=sharing) -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakurfurqaan&label=Profile%20views&color=0e75b6&style=flat" alt="thakurfurqaan" /> </p> -->
-<!-- - 📄 Everything About me - <a href="https://skyamit.netlify.com/">Know Me</a> -->
 
 
 <br>
